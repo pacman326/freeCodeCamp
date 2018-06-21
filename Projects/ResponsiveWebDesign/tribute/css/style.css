@@ -3,11 +3,12 @@
 #title {
   text-align: center;
   font: calibri;
-  backgroud-color:#F0E68C;
+  
 }
-#main {
-  background-color:#FFF8DC;
-;}
+
+body {
+  background-color: #FFF8DC;
+}
 
 #subtitle {
   text-align: center;
@@ -50,4 +51,10 @@
 
 #img-caption {
   text-align:center;
+}
+
+#main {
+  background-color:white;
+  width:90%;
+  margin:auto;
 }
